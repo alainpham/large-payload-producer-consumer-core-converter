@@ -1,6 +1,8 @@
 Testing Large Messages with AMQ 7 Broker
 =========================================
 
+Testing how to stream large messages with AMQ 7 broker with Fuse 6.3.
+
 To build this project use
 
     mvn install
